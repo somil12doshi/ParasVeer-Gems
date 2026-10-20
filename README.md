@@ -58,7 +58,7 @@ Official references:
 - Descriptive display titles are editorial labels, not certified gemstone, material, or product specifications.
 - Search matches display names, categories, and references. Filters and sorting work together; Discover more reveals 24 views at a time.
 - Hearts save references in this browser's local storage. There are no accounts or cross-device syncing.
-- Saved pieces show contact links for Naitik Doshi: +91 99675 69513 and nrdjewel@gmail.com. There are no copy or download inquiry controls. Phone and email links open the visitor’s chosen calling or email app; the website does not send messages itself. The contact details and specialty text come from the supplied business card; its image and street address are not displayed.
+- Saved pieces show contact links for Naitik Doshi: +91 98214 78941 and nrdjewel@gmail.com. There are no copy or download inquiry controls. Phone and email links open the visitor’s chosen calling or email app; the website does not send messages itself. The contact details and specialty text come from the supplied business card; its image and street address are not displayed.
 - Prices, availability, and specifications are intentionally left for inquiry. No checkout or payment service is connected.
 - Original category Lock is displayed as Clasps.
 
