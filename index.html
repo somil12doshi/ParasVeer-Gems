@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173f36">
+  <meta name="description" content="Explore the ParasVeer Gems jewelry collection. Discover rings, earrings, necklaces and distinctive pieces, and save your favorites for an inquiry.">
+  <title>ParasVeer Gems — A world of little wonders</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="config.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#collection">Skip to collection</a>
+<div class="announcement">A world of little wonders. Find the one that feels like you.</div>
+<header class="header">
+  <a class="brand" href="#" aria-label="ParasVeer Gems home"><span class="brand-mark" aria-hidden="true">◇</span><span>PARASVEER<span class="brand-sub">G E M S</span></span></a>
+  <nav aria-label="Main navigation"><a href="#collection">The collection</a><a href="#how-it-works">Contact</a></nav>
+  <button class="shortlist-button" id="open-shortlist" aria-label="Open saved pieces">Saved pieces <span id="saved-count">0</span></button>
+</header>
+<main>
+<section class="hero" aria-labelledby="hero-heading">
+  <div class="hero-copy"><p class="eyebrow"><span></span> THE PARASVEER COLLECTION</p>
+    <h1 id="hero-heading">A little<br><em>extraordinary.</em><br>Every day.</h1>
+    <p class="hero-description">Color that catches your eye. Details that make you look twice. Explore jewelry with a character all its own.</p>
+    <a class="button button-dark" href="#collection">Find your favorite <span aria-hidden="true">↗</span></a>
+    <div class="hero-footnote"><span class="small-star" aria-hidden="true">✳</span> For the everyday. For the unforgettable.</div>
+  </div>
+  <div class="hero-visual">
+    <div class="hero-arch"><img id="hero-image" alt="Geometric green drop earrings from the ParasVeer Gems collection"><span class="vertical-note">A STUDY IN COLOR & FORM</span></div>
+    <div class="hero-detail"><img id="detail-image" alt="Black cushion-shaped statement ring"><span>Little details.<br><i>Lasting impressions.</i></span></div>
+    <div class="hero-seal" aria-hidden="true">A WORLD OF<br><b>✦</b><br>LITTLE WONDERS</div>
+    <span class="hero-caption">THE ART OF STANDING OUT, QUIETLY.</span>
+  </div>
+</section>
+<div class="collection-strip" aria-hidden="true"><span>COLOR WITH CHARACTER</span><span>✧</span><span>DETAILS TO DISCOVER</span><span>✧</span><span>YOUR KIND OF EXTRAORDINARY</span><span>✧</span></div>
+<section id="collection" class="collection" aria-labelledby="collection-heading">
+  <div class="section-heading"><div><p class="eyebrow">FIND WHAT SPEAKS TO YOU</p><h2 id="collection-heading">The collection<span>.</span></h2></div><p>From a subtle spark to a statement piece.<br>There’s a little wonder in every detail.</p></div>
+  <div class="collection-tools"><div class="category-tabs" id="category-tabs" role="group" aria-label="Filter by jewelry category"></div><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="search" type="search" placeholder="Find a piece…" aria-label="Search jewelry by name, category or reference"></label></div>
+  <div class="results-line"><p id="results-count" role="status" aria-live="polite">Loading the collection…</p><label class="sort-label">View <select id="sort" aria-label="Sort collection"><option value="curated">Curated order</option><option value="name">Name: A–Z</option><option value="category">By category</option></select></label></div>
+  <div id="product-grid" class="product-grid" aria-label="Jewelry collection"></div>
+  <div id="empty-state" class="empty-state" hidden><span aria-hidden="true">◇</span><h3>No pieces found</h3><p>Try another name, reference, or category.</p><button id="reset-filters" class="text-button">Explore the full collection ↗</button></div>
+  <div class="load-more-wrap"><button id="load-more" class="button button-outline" hidden>Discover more <span aria-hidden="true">↓</span></button></div>
+</section>
+<section class="inquiry-section" id="how-it-works" aria-labelledby="inquiry-heading"><div><p class="eyebrow">A PIECE OF YOUR STORY</p><h2 id="inquiry-heading">Found your<br><em>little wonder?</em></h2><p>Keep the pieces you love close. Speak with Naitik Doshi about availability, pricing, and the details that make a piece yours.</p><button class="button button-cream" id="view-selection">View your saved pieces <span aria-hidden="true">↗</span></button></div><div class="contact-details" aria-labelledby="contact-name"><p class="eyebrow">LET’S FIND YOUR LITTLE WONDER</p><h3 id="contact-name">Naitik Doshi</h3><p class="contact-business">ParasVeer Gems</p><p class="contact-specialty">Fine diamond jewellery &amp; polished diamonds</p><a class="contact-link" href="tel:+919967569513"><span class="contact-label">CALL</span><span>+91 99675 69513</span><span aria-hidden="true">↗</span></a><a class="contact-link" href="mailto:nrdjewel@gmail.com"><span class="contact-label">EMAIL</span><span>nrdjewel@gmail.com</span><span aria-hidden="true">↗</span></a></div></section>
+</main>
+<footer><a class="brand" href="#"><span class="brand-mark" aria-hidden="true">◇</span><span>PARASVEER<span class="brand-sub">G E M S</span></span></a><p>A world of little wonders.</p><a href="#collection">Back to the collection ↑</a><small>© <span id="year"></span> ParasVeer Gems. Collection photographs are for reference. Ask about current availability.</small></footer>
+<dialog id="product-dialog" class="product-dialog" aria-labelledby="detail-title"><button class="close-button" data-close="product-dialog" aria-label="Close piece details">×</button><div class="detail-layout"><div class="detail-photo"><img id="modal-image" alt=""></div><div class="detail-copy"><p class="eyebrow" id="detail-category"></p><h2 id="detail-title"></h2><p id="detail-reference" class="reference"></p><p>A closer look at a little extraordinary. Save this piece to your favorites and contact Naitik Doshi with its reference for availability and details.</p><button id="detail-save" class="button button-dark"></button><p class="detail-note">Collection photograph · Pricing and specifications available on inquiry.</p></div></div></dialog>
+<dialog id="shortlist-dialog" class="shortlist-dialog" aria-labelledby="shortlist-title"><button class="close-button" data-close="shortlist-dialog" aria-label="Close saved pieces">×</button><p class="eyebrow">THE ONES YOU LOVE</p><h2 id="shortlist-title">Your little wonders.</h2><p class="shortlist-intro">Keep your favorites together. Contact Naitik Doshi with a piece’s reference to ask about its details.</p><div id="shortlist-items"></div><div class="shortlist-contact"><p>Speak with Naitik Doshi</p><a href="tel:+919967569513">+91 99675 69513 ↗</a><a href="mailto:nrdjewel@gmail.com">nrdjewel@gmail.com ↗</a></div><p class="saved-note">Your favorites are saved on this device.</p></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<noscript><p class="noscript">Please enable JavaScript to browse the jewelry collection.</p></noscript>
+</body></html>

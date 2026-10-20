@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "PV-028",
+    "name": "Pearl embrace",
+    "category": "Bangles",
+    "image": "jewelry/bangles/BAN_001.jpg",
+    "reference": 28
+  },
+  {
+    "id": "PV-030",
+    "name": "Ruby geometry",
+    "category": "Bracelets",
+    "image": "jewelry/bracelets/BRA_001.jpg",
+    "reference": 30
+  },
+  {
+    "id": "PV-040",
+    "name": "Emerald line",
+    "category": "Bracelets",
+    "image": "jewelry/bracelets/BRA_002.jpg",
+    "reference": 40
+  },
+  {
+    "id": "PV-044",
+    "name": "Bracelet study 03",
+    "category": "Bracelets",
+    "image": "jewelry/bracelets/BRA_003.jpg",
+    "reference": 44
+  },
+  {
+    "id": "PV-093",
+    "name": "Green ribbon",
+    "category": "Bracelets",
+    "image": "jewelry/bracelets/BRA_004.jpg",
+    "reference": 93
+  },
+  {
+    "id": "PV-126",
+    "name": "Bracelet study 05",
+    "category": "Bracelets",
+    "image": "jewelry/bracelets/BRA_005.jpg",
+    "reference": 126
+  },
+  {
+    "id": "PV-081",
+    "name": "The peacock",
+    "category": "Brooches",
+    "image": "jewelry/brooches/BRO_001.jpg",
+    "reference": 81
+  },
+  {
+    "id": "PV-082",
+    "name": "Garden flourish",
+    "category": "Brooches",
+    "image": "jewelry/brooches/BRO_002.jpg",
+    "reference": 82
+  },
+  {
+    "id": "PV-098",
+    "name": "The cockatoo",
+    "category": "Brooches",
+    "image": "jewelry/brooches/BRO_003.jpg",
+    "reference": 98
+  },
+  {
+    "id": "PV-122",
+    "name": "Midnight cufflinks",
+    "category": "Cufflinks",
+    "image": "jewelry/cufflinks/CUF_001.jpg",
+    "reference": 122
+  },
+  {
+    "id": "PV-001",
+    "name": "Earring study 01",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_001.jpg",
+    "reference": 1
+  },
+  {
+    "id": "PV-012",
+    "name": "Blush oval",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_002.jpg",
+    "reference": 12
+  },
+  {
+    "id": "PV-015",
+    "name": "Ocean oval",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_003.jpg",
+    "reference": 15
+  },
+  {
+    "id": "PV-018",
+    "name": "Azure ribbons",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_004.jpg",
+    "reference": 18
+  },
+  {
+    "id": "PV-021",
+    "name": "Green cascade",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_005.jpg",
+    "reference": 21
+  },
+  {
+    "id": "PV-023",
+    "name": "Pearl drop",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_006.jpg",
+    "reference": 23
+  },
+  {
+    "id": "PV-025",
+    "name": "Ivory tassels",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_007.jpg",
+    "reference": 25
+  },
+  {
+    "id": "PV-026",
+    "name": "Midnight cascade",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_008.jpg",
+    "reference": 26
+  },
+  {
+    "id": "PV-027",
+    "name": "Emerald line",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_009.jpg",
+    "reference": 27
+  },
+  {
+    "id": "PV-029",
+    "name": "Silver circle",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_010.jpg",
+    "reference": 29
+  },
+  {
+    "id": "PV-031",
+    "name": "Golden circles",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_011.jpg",
+    "reference": 31
+  },
+  {
+    "id": "PV-042",
+    "name": "Three wishes",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_012.jpg",
+    "reference": 42
+  },
+  {
+    "id": "PV-050",
+    "name": "Heart to heart",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_013.jpg",
+    "reference": 50
+  },
+  {
+    "id": "PV-053",
+    "name": "Golden wave",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_014.jpg",
+    "reference": 53
+  },
+  {
+    "id": "PV-061",
+    "name": "Ocean drops",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_015.jpg",
+    "reference": 61
+  },
+  {
+    "id": "PV-063",
+    "name": "Blush flourish",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_016.jpg",
+    "reference": 63
+  },
+  {
+    "id": "PV-064",
+    "name": "Green geometry",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_017.jpg",
+    "reference": 64
+  },
+  {
+    "id": "PV-065",
+    "name": "Color compass",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_018.jpg",
+    "reference": 65
+  },
+  {
+    "id": "PV-066",
+    "name": "Midnight mosaic",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_019.jpg",
+    "reference": 66
+  },
+  {
+    "id": "PV-067",
+    "name": "Azure mosaic",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_020.jpg",
+    "reference": 67
+  },
+  {
+    "id": "PV-071",
+    "name": "Blush teardrops",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_021.jpg",
+    "reference": 71
+  },
+  {
+    "id": "PV-078",
+    "name": "Golden geometry",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_022.jpg",
+    "reference": 78
+  },
+  {
+    "id": "PV-080",
+    "name": "Blush leaves",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_023.jpg",
+    "reference": 80
+  },
+  {
+    "id": "PV-083",
+    "name": "Blue bloom",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_024.jpg",
+    "reference": 83
+  },
+  {
+    "id": "PV-084",
+    "name": "Emerald fan",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_025.jpg",
+    "reference": 84
+  },
+  {
+    "id": "PV-086",
+    "name": "Green architecture",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_026.jpg",
+    "reference": 86
+  },
+  {
+    "id": "PV-089",
+    "name": "Emerald compass",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_027.jpg",
+    "reference": 89
+  },
+  {
+    "id": "PV-090",
+    "name": "Blue rosette",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_028.jpg",
+    "reference": 90
+  },
+  {
+    "id": "PV-096",
+    "name": "Earring study 29",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_029.jpg",
+    "reference": 96
+  },
+  {
+    "id": "PV-097",
+    "name": "Ruby tassels",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_030.jpg",
+    "reference": 97
+  },
+  {
+    "id": "PV-105",
+    "name": "Turquoise bloom",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_031.jpg",
+    "reference": 105
+  },
+  {
+    "id": "PV-118",
+    "name": "Earring study 32",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_032.jpg",
+    "reference": 118
+  },
+  {
+    "id": "PV-124",
+    "name": "Earring study 33",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_033.jpg",
+    "reference": 124
+  },
+  {
+    "id": "PV-133",
+    "name": "Golden curve",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_034.jpg",
+    "reference": 133
+  },
+  {
+    "id": "PV-143",
+    "name": "Golden drops",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_035.jpg",
+    "reference": 143
+  },
+  {
+    "id": "PV-149",
+    "name": "Earring study 36",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_036.jpg",
+    "reference": 149
+  },
+  {
+    "id": "PV-150",
+    "name": "Earring study 37",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_037.jpg",
+    "reference": 150
+  },
+  {
+    "id": "PV-152",
+    "name": "Earring study 38",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_038.jpg",
+    "reference": 152
+  },
+  {
+    "id": "PV-154",
+    "name": "Emerald hoops",
+    "category": "Earrings",
+    "image": "jewelry/earrings/EAR_039.jpg",
+    "reference": 154
+  },
+  {
+    "id": "PV-005",
+    "name": "Azure occasion",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_001.jpg",
+    "reference": 5
+  },
+  {
+    "id": "PV-008",
+    "name": "Jewelry Set study 02",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_002.jpg",
+    "reference": 8
+  },
+  {
+    "id": "PV-010",
+    "name": "Jewelry Set study 03",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_003.jpg",
+    "reference": 10
+  },
+  {
+    "id": "PV-013",
+    "name": "Jewelry Set study 04",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_004.jpg",
+    "reference": 13
+  },
+  {
+    "id": "PV-014",
+    "name": "Jewelry Set study 05",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_005.jpg",
+    "reference": 14
+  },
+  {
+    "id": "PV-016",
+    "name": "Jewelry Set study 06",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_006.jpg",
+    "reference": 16
+  },
+  {
+    "id": "PV-017",
+    "name": "Jewelry Set study 07",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_007.jpg",
+    "reference": 17
+  },
+  {
+    "id": "PV-019",
+    "name": "Jewelry Set study 08",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_008.jpg",
+    "reference": 19
+  },
+  {
+    "id": "PV-020",
+    "name": "Jewelry Set study 09",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_009.jpg",
+    "reference": 20
+  },
+  {
+    "id": "PV-024",
+    "name": "Jewelry Set study 10",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_010.jpg",
+    "reference": 24
+  },
+  {
+    "id": "PV-056",
+    "name": "Jewelry Set study 11",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_011.jpg",
+    "reference": 56
+  },
+  {
+    "id": "PV-077",
+    "name": "Emerald garden",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_012.jpg",
+    "reference": 77
+  },
+  {
+    "id": "PV-092",
+    "name": "Jewelry Set study 13",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_013.jpg",
+    "reference": 92
+  },
+  {
+    "id": "PV-095",
+    "name": "Jewelry Set study 14",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_014.jpg",
+    "reference": 95
+  },
+  {
+    "id": "PV-102",
+    "name": "Jewelry Set study 15",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_015.jpg",
+    "reference": 102
+  },
+  {
+    "id": "PV-104",
+    "name": "Ruby wings",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_016.jpg",
+    "reference": 104
+  },
+  {
+    "id": "PV-110",
+    "name": "Ivory cascade",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_017.jpg",
+    "reference": 110
+  },
+  {
+    "id": "PV-114",
+    "name": "Jewelry Set study 18",
+    "category": "Jewelry Sets",
+    "image": "jewelry/jewelry-sets/JSE_018.jpg",
+    "reference": 114
+  },
+  {
+    "id": "PV-131",
+    "name": "Lock study 01",
+    "category": "Lock",
+    "image": "jewelry/lock/LOC_001.jpg",
+    "reference": 131
+  },
+  {
+    "id": "PV-002",
+    "name": "Amber bloom",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_029.jpg",
+    "reference": 2
+  },
+  {
+    "id": "PV-003",
+    "name": "Necklace study 02",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_002.jpg",
+    "reference": 3
+  },
+  {
+    "id": "PV-004",
+    "name": "Turquoise rhythm",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_003.jpg",
+    "reference": 4
+  },
+  {
+    "id": "PV-006",
+    "name": "Necklace study 04",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_004.jpg",
+    "reference": 6
+  },
+  {
+    "id": "PV-009",
+    "name": "Necklace study 05",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_005.jpg",
+    "reference": 9
+  },
+  {
+    "id": "PV-011",
+    "name": "Necklace study 06",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_006.jpg",
+    "reference": 11
+  },
+  {
+    "id": "PV-037",
+    "name": "Silver crescent",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_007.jpg",
+    "reference": 37
+  },
+  {
+    "id": "PV-038",
+    "name": "Golden crescent",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_008.jpg",
+    "reference": 38
+  },
+  {
+    "id": "PV-039",
+    "name": "Double orbit",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_009.jpg",
+    "reference": 39
+  },
+  {
+    "id": "PV-041",
+    "name": "Green crescent",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_010.jpg",
+    "reference": 41
+  },
+  {
+    "id": "PV-045",
+    "name": "Color in motion",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_011.jpg",
+    "reference": 45
+  },
+  {
+    "id": "PV-046",
+    "name": "Necklace study 12",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_012.jpg",
+    "reference": 46
+  },
+  {
+    "id": "PV-047",
+    "name": "Necklace study 13",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_013.jpg",
+    "reference": 47
+  },
+  {
+    "id": "PV-048",
+    "name": "Necklace study 14",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_014.jpg",
+    "reference": 48
+  },
+  {
+    "id": "PV-049",
+    "name": "Teardrop rhythm",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_015.jpg",
+    "reference": 49
+  },
+  {
+    "id": "PV-057",
+    "name": "Necklace study 16",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_016.jpg",
+    "reference": 57
+  },
+  {
+    "id": "PV-059",
+    "name": "Ruby moon",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_017.jpg",
+    "reference": 59
+  },
+  {
+    "id": "PV-060",
+    "name": "Emerald moon",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_018.jpg",
+    "reference": 60
+  },
+  {
+    "id": "PV-062",
+    "name": "Azure mosaic",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_019.jpg",
+    "reference": 62
+  },
+  {
+    "id": "PV-068",
+    "name": "Hexagon story",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_020.jpg",
+    "reference": 68
+  },
+  {
+    "id": "PV-072",
+    "name": "Necklace study 21",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_021.jpg",
+    "reference": 72
+  },
+  {
+    "id": "PV-073",
+    "name": "A personal verse",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_022.jpg",
+    "reference": 73
+  },
+  {
+    "id": "PV-091",
+    "name": "Color compass",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_023.jpg",
+    "reference": 91
+  },
+  {
+    "id": "PV-094",
+    "name": "Color compass",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_024.jpg",
+    "reference": 94
+  },
+  {
+    "id": "PV-099",
+    "name": "Emerald rhythm",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_025.jpg",
+    "reference": 99
+  },
+  {
+    "id": "PV-119",
+    "name": "In balance",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_026.jpg",
+    "reference": 119
+  },
+  {
+    "id": "PV-136",
+    "name": "Celestial story",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_027.jpg",
+    "reference": 136
+  },
+  {
+    "id": "PV-139",
+    "name": "Necklace study 28",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_028.jpg",
+    "reference": 139
+  },
+  {
+    "id": "PV-140",
+    "name": "Amber bloom",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_029.jpg",
+    "reference": 140
+  },
+  {
+    "id": "PV-141",
+    "name": "Emerald occasion",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_030.jpg",
+    "reference": 141
+  },
+  {
+    "id": "PV-142",
+    "name": "Necklace study 31",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_031.jpg",
+    "reference": 142
+  },
+  {
+    "id": "PV-155",
+    "name": "Midnight keepsake",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_032.jpg",
+    "reference": 155
+  },
+  {
+    "id": "PV-156",
+    "name": "A spectrum of color",
+    "category": "Necklaces",
+    "image": "jewelry/necklaces/NEC_033.jpg",
+    "reference": 156
+  },
+  {
+    "id": "PV-052",
+    "name": "Celestial compass",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_001.jpg",
+    "reference": 52
+  },
+  {
+    "id": "PV-054",
+    "name": "Hexagon",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_002.jpg",
+    "reference": 54
+  },
+  {
+    "id": "PV-070",
+    "name": "Golden compass",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_003.jpg",
+    "reference": 70
+  },
+  {
+    "id": "PV-074",
+    "name": "True north",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_004.jpg",
+    "reference": 74
+  },
+  {
+    "id": "PV-075",
+    "name": "Emerald lattice",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_005.jpg",
+    "reference": 75
+  },
+  {
+    "id": "PV-076",
+    "name": "Pendants & Charm study 06",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_006.jpg",
+    "reference": 76
+  },
+  {
+    "id": "PV-100",
+    "name": "Emerald drops",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_007.jpg",
+    "reference": 100
+  },
+  {
+    "id": "PV-117",
+    "name": "A personal note",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_008.jpg",
+    "reference": 117
+  },
+  {
+    "id": "PV-123",
+    "name": "In balance",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_009.jpg",
+    "reference": 123
+  },
+  {
+    "id": "PV-125",
+    "name": "Celestial compass",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_010.jpg",
+    "reference": 125
+  },
+  {
+    "id": "PV-128",
+    "name": "Lionhearted",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_011.jpg",
+    "reference": 128
+  },
+  {
+    "id": "PV-129",
+    "name": "Golden shield",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_012.jpg",
+    "reference": 129
+  },
+  {
+    "id": "PV-130",
+    "name": "True north",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_013.jpg",
+    "reference": 130
+  },
+  {
+    "id": "PV-132",
+    "name": "Celestial stories",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_014.jpg",
+    "reference": 132
+  },
+  {
+    "id": "PV-134",
+    "name": "Pendants & Charm study 15",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_015.jpg",
+    "reference": 134
+  },
+  {
+    "id": "PV-135",
+    "name": "Pendants & Charm study 16",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_016.jpg",
+    "reference": 135
+  },
+  {
+    "id": "PV-137",
+    "name": "Pendants & Charm study 17",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_017.jpg",
+    "reference": 137
+  },
+  {
+    "id": "PV-138",
+    "name": "Heart of gold",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_018.jpg",
+    "reference": 138
+  },
+  {
+    "id": "PV-144",
+    "name": "Pendants & Charm study 19",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_019.jpg",
+    "reference": 144
+  },
+  {
+    "id": "PV-158",
+    "name": "Midnight keepsake",
+    "category": "Pendants & Charms",
+    "image": "jewelry/pendants-charms/PCH_020.jpg",
+    "reference": 158
+  },
+  {
+    "id": "PV-007",
+    "name": "Emerald geometry",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_001.jpg",
+    "reference": 7
+  },
+  {
+    "id": "PV-022",
+    "name": "Ring study 02",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_002.jpg",
+    "reference": 22
+  },
+  {
+    "id": "PV-032",
+    "name": "Blush facets",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_003.jpg",
+    "reference": 32
+  },
+  {
+    "id": "PV-033",
+    "name": "Midnight duo",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_004.jpg",
+    "reference": 33
+  },
+  {
+    "id": "PV-034",
+    "name": "Azure facets",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_005.jpg",
+    "reference": 34
+  },
+  {
+    "id": "PV-035",
+    "name": "Green facets",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_006.jpg",
+    "reference": 35
+  },
+  {
+    "id": "PV-036",
+    "name": "Midnight facets",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_007.jpg",
+    "reference": 36
+  },
+  {
+    "id": "PV-043",
+    "name": "Emerald duo",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_008.jpg",
+    "reference": 43
+  },
+  {
+    "id": "PV-051",
+    "name": "Golden pav\u00e9",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_009.jpg",
+    "reference": 51
+  },
+  {
+    "id": "PV-055",
+    "name": "Midnight oval",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_010.jpg",
+    "reference": 55
+  },
+  {
+    "id": "PV-058",
+    "name": "Midnight frame",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_011.jpg",
+    "reference": 58
+  },
+  {
+    "id": "PV-069",
+    "name": "Scarlet statement",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_012.jpg",
+    "reference": 69
+  },
+  {
+    "id": "PV-079",
+    "name": "Turquoise flourish",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_013.jpg",
+    "reference": 79
+  },
+  {
+    "id": "PV-085",
+    "name": "Midnight signet",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_014.jpg",
+    "reference": 85
+  },
+  {
+    "id": "PV-087",
+    "name": "Little orbit",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_015.jpg",
+    "reference": 87
+  },
+  {
+    "id": "PV-088",
+    "name": "Color compass",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_016.jpg",
+    "reference": 88
+  },
+  {
+    "id": "PV-101",
+    "name": "Two of a kind",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_017.jpg",
+    "reference": 101
+  },
+  {
+    "id": "PV-103",
+    "name": "Midnight cushion",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_018.jpg",
+    "reference": 103
+  },
+  {
+    "id": "PV-106",
+    "name": "Ring study 19",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_019.jpg",
+    "reference": 106
+  },
+  {
+    "id": "PV-107",
+    "name": "Scarlet flourish",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_020.jpg",
+    "reference": 107
+  },
+  {
+    "id": "PV-108",
+    "name": "Ring study 21",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_021.jpg",
+    "reference": 108
+  },
+  {
+    "id": "PV-109",
+    "name": "Coral bloom",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_022.jpg",
+    "reference": 109
+  },
+  {
+    "id": "PV-111",
+    "name": "Turquoise frame",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_023.jpg",
+    "reference": 111
+  },
+  {
+    "id": "PV-112",
+    "name": "Emerald signet",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_024.jpg",
+    "reference": 112
+  },
+  {
+    "id": "PV-113",
+    "name": "Scarlet spark",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_025.jpg",
+    "reference": 113
+  },
+  {
+    "id": "PV-115",
+    "name": "Color architecture",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_026.jpg",
+    "reference": 115
+  },
+  {
+    "id": "PV-116",
+    "name": "Azure architecture",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_027.jpg",
+    "reference": 116
+  },
+  {
+    "id": "PV-120",
+    "name": "Scarlet oval",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_028.jpg",
+    "reference": 120
+  },
+  {
+    "id": "PV-121",
+    "name": "Scarlet crown",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_029.jpg",
+    "reference": 121
+  },
+  {
+    "id": "PV-127",
+    "name": "Lionhearted",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_030.jpg",
+    "reference": 127
+  },
+  {
+    "id": "PV-145",
+    "name": "Midnight marquise",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_031.jpg",
+    "reference": 145
+  },
+  {
+    "id": "PV-146",
+    "name": "Golden spark",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_032.jpg",
+    "reference": 146
+  },
+  {
+    "id": "PV-147",
+    "name": "Emerald marquise",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_033.jpg",
+    "reference": 147
+  },
+  {
+    "id": "PV-148",
+    "name": "Ruby marquise",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_034.jpg",
+    "reference": 148
+  },
+  {
+    "id": "PV-151",
+    "name": "Heart in hand",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_035.jpg",
+    "reference": 151
+  },
+  {
+    "id": "PV-153",
+    "name": "Emerald fringe",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_036.jpg",
+    "reference": 153
+  },
+  {
+    "id": "PV-157",
+    "name": "Emerald embrace",
+    "category": "Rings",
+    "image": "jewelry/rings/RIN_037.jpg",
+    "reference": 157
+  }
+]
